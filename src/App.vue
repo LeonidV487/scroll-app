@@ -38,8 +38,8 @@
 
 <script>
 
-    import CardScroll from "./components/card-scroll/CardScroll";
-    import UsersInfo from "./components/users-info/UsersInfo";
+    import CardScroll from "./components/card-scroll";
+    import UsersInfo from "./components/users-info";
     import './app.scss';
 
     export default {
